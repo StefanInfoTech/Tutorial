@@ -23,7 +23,9 @@ To add these together you add them by stacking them as you do when you add them 
 You start by adding the 1 and the zero at the start all the way to the right. The next digit gets added to the one and you carry the 1 over to the next column.
 _______________________
 ### Subtraction In Binary
+Subtraction in binary is simple and similar to subtracting in the decimal system. To subtract in binary you want to stack your two numbers like you would in a decimal problem and subtract as normally. 0 subtracted from 1 gives you 1 but when 1 is subtracted from zero you want to use a familiar concept called borrowing from the next highest digit.
 
+![Binary Subtraction](https://www.wikihow.com/images/thumb/f/f7/Subtract-Binary-Numbers-Step-2-Version-4.jpg/aid564389-v4-728px-Subtract-Binary-Numbers-Step-2-Version-4.jpg.webp)
 _______________________
 ### Multiplication In Binary
 
