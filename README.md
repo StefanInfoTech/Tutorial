@@ -3,7 +3,7 @@
 
 
 #### Description
-The purpose of this tutorial is to help people learn binary. My target audience for this tutorial is for anyone who desires a better understanding in binary. This tutorial is meant to cover the basics so it'll fit the needs of most beginners.
+The purpose of this tutorial is to help people learn binary. My target audience for this tutorial is for anyone who desires a better understanding in binary. This tutorial is meant to cover the basics so it'll fit the needs of most beginners. Although binary isn't a necessity for the field of Information Technology it is very useful to understand the languages computers speak in.
 
 ______________________
 ## What is Binary?
@@ -34,6 +34,13 @@ Multiplication in binary is simple and exactly like multiplying in the decimal s
 
 _____________________
 ### Division In Binary
+Division in binary is a bit more complicated than the other mathmatical operators but it is exactly the same as decimal long division
+Step 1: First observe the first two numbers in dividend and compare with divisor. Add 1 into quotient place and subtrac the value.
+Step 2: Bring down number and repeat step 1
+Step 3: Repeat process until remainder becomes 0
+Step 4: Bring down 0 into quotient portion
+
+![Division Binary](https://cdn1.byjus.com/wp-content/uploads/2020/10/Binary-Division-2.png)
 
 _______________________
 ### Negative Numbers In Binary
