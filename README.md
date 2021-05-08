@@ -49,6 +49,6 @@ _______________________
 ### Negative Numbers In Binary
 Binary negative numbers are not as complicated as they sound. There is the **signed ones complement** and the **signed twos complement**. The **twos complement** is typically used more. All this means is that the first number of the binary number represents if the number is negative or not. 1 if the number is negative or 0 if the number is positive.
 
-![Negative Numbers in Binary](https://www.electronics-tutorials.ws/wp-content/uploads/2014/07/bin7.gif?fit=192%2C105)
+![Negative Numbers in Binary](https://media.geeksforgeeks.org/wp-content/uploads/20200427140428/signed-1.png)
 
 ________________________
