@@ -8,6 +8,7 @@ The purpose of this tutorial is to help people learn binary. My target audience 
 ______________________
 ## What is Binary?
 **Binary** - a number system that revolves around the number 2 rather than 10
+A binary number represents a bit. A bit only has 2 values, on or off. 1 for on and 0 for off.
 
 ![Binary Image](https://www.onlinemathlearning.com/image-files/binary-to-decimal.png)
 
@@ -36,7 +37,7 @@ _____________________
 ### Division In Binary
 Division in binary is a bit more complicated than the other mathmatical operators but it is exactly the same as decimal long division
 Steps:
-1. First observe the first two numbers in dividend and compare with divisor. Add 1 into quotient place and subtrac the value.
+1. First observe the first two numbers in dividend and compare with divisor. Add 1 into quotient place and subtract the value.
 2. Bring down number and repeat step 1
 3. Repeat process until remainder becomes 0
 4. Bring down 0 into quotient portion
@@ -45,5 +46,8 @@ Steps:
 
 _______________________
 ### Negative Numbers In Binary
+Binary negative numbers are not as complicated as they sound. There is the **signed ones complement** and the **signed twos complement**. The **twos complement** is typically used more. All this means is that the first number of the binary number represents if the number is negative or not. 1 if the number is negative or 0 if the number is positive.
+
+![Negative Numbers in Binary](https://www.electronics-tutorials.ws/wp-content/uploads/2014/07/bin7.gif?fit=192%2C105)
 
 ________________________
