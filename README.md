@@ -8,6 +8,7 @@ The purpose of this tutorial is to help people learn binary. My target audience 
 ______________________
 ## What is Binary?
 **Binary** - a number system that revolves around the number 2 rather than 10
+
 A binary number represents a bit. A bit only has 2 values, on or off. 1 for on and 0 for off.
 
 ![Binary Image](https://www.onlinemathlearning.com/image-files/binary-to-decimal.png)
