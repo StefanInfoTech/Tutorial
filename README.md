@@ -35,10 +35,11 @@ Multiplication in binary is simple and exactly like multiplying in the decimal s
 _____________________
 ### Division In Binary
 Division in binary is a bit more complicated than the other mathmatical operators but it is exactly the same as decimal long division
-Step 1: First observe the first two numbers in dividend and compare with divisor. Add 1 into quotient place and subtrac the value.
-Step 2: Bring down number and repeat step 1
-Step 3: Repeat process until remainder becomes 0
-Step 4: Bring down 0 into quotient portion
+Steps:
+1. First observe the first two numbers in dividend and compare with divisor. Add 1 into quotient place and subtrac the value.
+2. Bring down number and repeat step 1
+3. Repeat process until remainder becomes 0
+4. Bring down 0 into quotient portion
 
 ![Division Binary](https://cdn1.byjus.com/wp-content/uploads/2020/10/Binary-Division-2.png)
 
