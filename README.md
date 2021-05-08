@@ -7,6 +7,8 @@ The purpose of this tutorial is to help people learn binary. My target audience 
 
 
 ## What is Binary?
+**Binary** - a number system that revolves around the number 2 rather than 10
+![Binary Image](https://www.unm.edu/~tbeach/terms/images/base2.gif)
 
 ### Addition In Binary
 
