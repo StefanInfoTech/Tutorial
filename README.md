@@ -28,6 +28,9 @@ Subtraction in binary is simple and similar to subtracting in the decimal system
 ![Binary Subtraction](https://www.wikihow.com/images/thumb/f/f7/Subtract-Binary-Numbers-Step-2-Version-4.jpg/aid564389-v4-728px-Subtract-Binary-Numbers-Step-2-Version-4.jpg.webp)
 _______________________
 ### Multiplication In Binary
+Multiplication in binary is simple and exactly like multiplying in the decimal system. You want to stack the numbers and multiply the first bottom most right digit times each top digit and do this for each bottom number. As you move from each bottom number you want to displace the numbers by 1 to the right as if you are multiplying two large decimal numbers as such:
+
+![Multiplication Binary](https://ars.els-cdn.com/content/image/3-s2.0-B9780128192214000146-gr004.gif)
 
 _____________________
 ### Division In Binary
