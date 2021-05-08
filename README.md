@@ -19,9 +19,6 @@ Adding in Binary is simple. The equation 1+1 in binary is equal to 10. This may 
 1010 + 11 = 1101
 
 To add these together you add them by stacking them as you do when you add them in decimal systems
-
-1010 + 11 = 1101
-
 You start by adding the 1 and the zero at the start all the way to the right. The next digit gets added to the one and you carry the 1 over to the next column.
 
 ### Subtraction In Binary
