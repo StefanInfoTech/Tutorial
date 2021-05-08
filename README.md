@@ -1,8 +1,8 @@
-# Binary Basics Tutorial
+# Binary Arithmetic Tutorial
 ## By: Stefan Tomovski
 ____________________
 
-#### Description
+## Description
 The purpose of this tutorial is to help people learn binary. My target audience for this tutorial is for anyone who desires a better understanding in binary. This tutorial is meant to cover the basics so it'll fit the needs of most beginners. Although binary isn't a necessity for the field of Information Technology it is very useful to understand the languages computers speak in.
 
 ______________________
