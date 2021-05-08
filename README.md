@@ -5,7 +5,7 @@
 #### Description
 The purpose of this tutorial is to help people learn binary. My target audience for this tutorial is for anyone who desires a better understanding in binary. This tutorial is meant to cover the basics so it'll fit the needs of most beginners.
 
-
+______________________
 ## What is Binary?
 **Binary** - a number system that revolves around the number 2 rather than 10
 
@@ -21,7 +21,7 @@ Adding in Binary is simple. The equation 1+1 in binary is equal to 10. This may 
 
 To add these together you add them by stacking them as you do when you add them in decimal systems
 You start by adding the 1 and the zero at the start all the way to the right. The next digit gets added to the one and you carry the 1 over to the next column.
-_________________
+_______________________
 ### Subtraction In Binary
 
 _______________________
@@ -30,6 +30,7 @@ _______________________
 _____________________
 ### Division In Binary
 
+_______________________
 ### Negative Numbers In Binary
 
-________________________-
+________________________
