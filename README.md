@@ -7,13 +7,14 @@ The purpose of this tutorial is to help people learn binary. My target audience 
 
 ______________________
 ## What is Binary?
-**Binary** - a number system that revolves around the number 2 rather than 10
+**Binary** - a number system that revolves around the number 2 rather than 10. It is most popularly used among computingand computing based technology due to its simplicity.
 
-A binary number represents a bit. A bit only has 2 values, on or off. 1 for on and 0 for off.
+A binary number represents a bit. A bit only has 2 values, on or off. 1 for on and 0 for off. 
+
 
 ![Binary Image](https://www.onlinemathlearning.com/image-files/binary-to-decimal.png)
 
-*Binary* uses 2 digits. 1 and 0. To count in Binary the number 1 would go in the first ones place and look like 000001 to count to the number 2, the 1 moves to the second place as such: 000010
+**Binary** uses 2 digits. 1 and 0. To count in Binary the number 1 would go in the first ones place and look like 000001 to count to the number 2, the 1 moves to the second place as such: 000010
 _______________
 
 ### Addition In Binary
